@@ -1,3 +1,3 @@
---  Query 1: String Functions
+Query 1: String Functions
 
 
