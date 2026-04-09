@@ -34,7 +34,11 @@ SELECT year, province, diabetes_prevalence,
 		
 FROM ncd_data
 
+-- Query 3a: Records with diabetes prevalence above national average
 
+
+
+-- Query 3b: Provinces where average hypertension prevalence exceeds 30%
 
 
 
