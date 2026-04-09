@@ -17,7 +17,7 @@ FROM ncd_data
 WHERE province LIKE '%Cape%'
 
 
--- Query 2: Risk stratification using CASE statements
+-- Risk stratification using CASE statements
 -- Categorises diabetes prevalence and hypertension awareness by risk level
 
 SELECT year, province, diabetes_prevalence,
@@ -34,7 +34,7 @@ SELECT year, province, diabetes_prevalence,
 		
 FROM ncd_data
 
--- Query 3a: Records with diabetes prevalence above national average
+-- Records with diabetes prevalence above national average
 
 SELECT year, province, diabetes_prevalence
 FROM ncd_data
@@ -43,14 +43,15 @@ WHERE diabetes_prevalence > (
 		FROM ncd_data)
 
 
--- Query 3b: Provinces where average hypertension prevalence exceeds 30%
+-- Provinces where average hypertension prevalence exceeds 30%
 SELECT province, avg_hyp_prevalence
 FROM
 	(
 	SELECT province, AVG(hypertension_prevalence) AS avg_hyp_prevalence
 	FROM ncd_data
 
-	GROUP BY province) AS hyp_avg_by_province
+	GROUP BY province
+	) AS hyp_avg_by_province
 
 WHERE avg_hyp_prevalence > 30
 
