@@ -17,6 +17,22 @@ FROM ncd_data
 WHERE province LIKE '%Cape%'
 
 
+-- Query 2: Risk stratification using CASE statements
+-- Categorises diabetes prevalence and hypertension awareness by risk level
+
+SELECT year, province, diabetes_prevalence,
+	CASE
+		WHEN diabetes_prevalence < 8 THEN 'Low Risk'
+		WHEN diabetes_prevalence BETWEEN 8 and 10 THEN 'Moderate Risk'
+		WHEN diabetes_prevalence > 10 THEN 'High Risk'
+	END AS diabetes_risk_level, hypertension_awareness,
+	CASE
+		WHEN hypertension_awareness < 45 THEN 'Poor'
+		WHEN hypertension_awareness BETWEEN 45 and 55 THEN 'Developing'
+		WHEN hypertension_awareness > 55 THEN 'Good'
+	END AS awareness_level
+		
+FROM ncd_data
 
 
 
