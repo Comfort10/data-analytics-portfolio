@@ -1,4 +1,4 @@
--- Query 1: String Functions
+-- String Functions
 
 -- Standardising: Converting all province names to uppercase. 
 
