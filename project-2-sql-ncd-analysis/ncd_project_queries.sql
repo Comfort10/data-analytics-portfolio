@@ -11,7 +11,10 @@ SELECT record_id, province, UPPER(LEFT(province, 3)) AS province_code
 FROM ncd_data
 
 -- Filter by text: Return all records where the province name contains the word 'Cape'
+SELECT record_id, province
+FROM ncd_data
 
+WHERE province LIKE '%Cape%'
 
 
 
