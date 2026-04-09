@@ -44,7 +44,15 @@ WHERE diabetes_prevalence > (
 
 
 -- Query 3b: Provinces where average hypertension prevalence exceeds 30%
+SELECT province, avg_hyp_prevalence
+FROM
+	(
+	SELECT province, AVG(hypertension_prevalence) AS avg_hyp_prevalence
+	FROM ncd_data
 
+	GROUP BY province) AS hyp_avg_by_province
+
+WHERE avg_hyp_prevalence > 30
 
 
 
