@@ -61,6 +61,23 @@ FROM
 WHERE avg_hyp_prevalence > 30
 
 
+-- Query 4: Window functions — provincial disease burden ranking and 
+-- year-on-year diabetes prevalence change using LAG()
+
+SELECT year, province, diabetes_prevalence,
+	LAG(diabetes_prevalence, 1, 0) OVER (PARTITION BY province ORDER BY year) AS prev_year_diabetes,
+	diabetes_prevalence - LAG(diabetes_prevalence, 1, diabetes_prevalence) OVER (PARTITION BY province ORDER BY year) AS yoy_change, 
+	RANK() OVER(PARTITION BY (year) ORDER BY diabetes_prevalence DESC) AS disease_burden_rank
+FROM ncd_data
+
+
+
+
+
+
+
+
+
 
 
 
