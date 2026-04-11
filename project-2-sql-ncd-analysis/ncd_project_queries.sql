@@ -72,10 +72,34 @@ FROM ncd_data
 
 
 
+-- CTE — 2022 provincial performance vs SA 2030 NSP targets
+-- CTE 1: filters 2022 records only
+-- CTE 2: calculates gap between actual and target for each indicator
+-- Final SELECT: classifies each province against NSP awareness target
 
 
+WITH cte_record_2022 AS (
+	SELECT year, province, hypertension_awareness, on_treatment, controlled
+	FROM ncd_data
 
+	WHERE year = 2022 
+	),
 
+cte_calculate AS (
+	SELECT province,
+	(90 - hypertension_awareness) AS awareness_gap,
+	(60 - on_treatment) AS treatment_gap,
+	(50 - controlled) AS controlled_gap
+	FROM cte_record_2022
+	)
+
+SELECT province,
+	CASE
+		WHEN awareness_gap < 10 THEN 'Close to target'
+		WHEN awareness_gap BETWEEN 10 and 30 THEN 'Needs improvement'
+		WHEN awareness_gap > 30 THEN 'Far from target'
+	END AS NSP_2030_Target
+FROM cte_calculate
 
 
 
