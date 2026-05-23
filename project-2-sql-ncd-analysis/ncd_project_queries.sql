@@ -1,3 +1,8 @@
+-- Use the NCD_Project database
+
+USE NCD_Project
+
+
 -- String Functions
 
 -- Standardising: Converting all province names to uppercase. 
