@@ -21,9 +21,7 @@ The projects span health, financial services, and policy domains — reflecting 
 | SQL (T-SQL / SSMS) | Intermediate — Advanced | Projects 2, 5 |
 | Microsoft Excel (Advanced) | Confident | Projects 1, 3 |
 | Power BI | Confident | Projects 3, 5 |
-| Python — pandas, matplotlib | In progress | Projects ongoing |
-| DHIS2 | Fundamentals in progress | Health projects |
-| R | Academic exposure | Honours degree |
+| Python — pandas, matplotlib | In progress | None yet |
 | GitHub | Version control | All projects |
 
 ---
