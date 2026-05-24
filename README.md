@@ -32,8 +32,8 @@ The projects span health, financial services, and policy domains — reflecting 
 |---|---|---|---|---|
 | 1 | SA NCD Trend Analysis — Diabetes & Hypertension | Health | Excel | ✅ Complete |
 | 2 | SA NCD SQL Analysis — Diabetes & Hypertension | Health | SQL Server | ✅ Complete |
-| 3 | SA NHI Provincial Readiness Scorecard | Health Policy | Excel | ✅ Complete |
-| 4 | SA NCD Power BI Dashboard | Health | Power BI | ✅ Complete |
+| 3 | SA NCD Power BI Dashboard | Health | Power BI | ✅ Complete |
+| 4 | SA NHI Provincial Readiness Scorecard | Health Policy | Excel | ✅ Complete |
 | 5 | SA Banking Sector Post-COVID Analysis | Financial Services | SQL Server, Power BI | 🔄 In Progress |
 
 ---
