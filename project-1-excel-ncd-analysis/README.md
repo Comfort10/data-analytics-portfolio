@@ -24,14 +24,13 @@ The analysis is relevant to NHI implementation planning, provincial health budge
 
 ## Tools Used
 
-- Microsoft Excel — PivotTable analysis, XLOOKUP, conditional formatting, charts, dashboard design
+- Microsoft Excel — PivotTable analysis, conditional formatting, charts, dashboard design
 
 ---
 
 ## Excel Skills Demonstrated
 
 - Pivot Tables — provincial and time-based aggregations
-- XLOOKUP — cross-sheet data retrieval and target gap calculation
 - Conditional formatting — RAG status highlighting by threshold
 - Line and bar charts — trend and comparative visualisation
 - Dashboard design — single-page executive summary layout
@@ -50,7 +49,8 @@ The analysis is relevant to NHI implementation planning, provincial health budge
 
 ## Files
 
-- `SA_NCD_Analysis_2012_2022.xlsx` — full Excel workbook including raw data, pivot analysis, XLOOKUP target gap tool, charts, and dashboard
+- `SA_NCD_Analysis_2012_2022.xlsx` — full Excel workbook including data, pivot analysis, and dashboard
+- `raw data.xlsx` — Raw SA NCD data
 
 ---
 
