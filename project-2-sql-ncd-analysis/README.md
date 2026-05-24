@@ -25,7 +25,7 @@ The project is relevant to health analytics, clinical data management, database 
 ## Tools Used
 
 - SQL Server (T-SQL) via SSMS — full database lifecycle from creation to querying
-- GitHub — version control and portfolio hosting
+- GitHub — version control and project hosting
 
 ---
 
