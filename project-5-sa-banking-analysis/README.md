@@ -58,7 +58,7 @@ String functions, CASE statements, subqueries, window functions
 ## Files
 
 - `sarb_banking_data.csv` — cleaned SARB data extract
-- `sarb_description.csv` - description of SARB codes
+- `sarb_description.csv` — description of SARB codes
 - `banking_setup.sql` — database and table creation
 - `banking_queries.sql` — analytical query sets
 - `banking_dashboard.pbix` — Power BI dashboard
