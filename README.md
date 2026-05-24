@@ -50,13 +50,13 @@ The projects span health, financial services, and policy domains — reflecting 
 
 ## Certifications
 
+- DHIS2 Fundamentals — DHIS Online Academy, May 2026
 - SQL Fundamentals for Data Analysts — Corporate Finance Institute (Coursera), Feb 2026
 - Work Smarter with Microsoft Excel — Microsoft (Coursera), Nov 2025
 - Creating Compelling Reports — Cisco Networking Academy, Dec 2025
 
 **In Progress:**
 - CS50 Python — Harvard University (edX)
-- DHIS2 Fundamentals — HISP
 - Power BI Fundamentals — CFI (Coursera)
 
 ---
