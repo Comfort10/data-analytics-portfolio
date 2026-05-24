@@ -10,7 +10,7 @@ This project analyses how South Africa's banking sector was impacted
 by COVID-19 and whether it has recovered to pre-pandemic levels. 
 Using six key banking indicators from the SARB, the analysis tracks 
 credit extension, deposit growth, lending rates, loan provisions, 
-and total sector assets across three distinct periods — pre-COVID, 
+and total sector assets across three distinct periods; pre-COVID, 
 COVID shock, and recovery.
 
 The analysis is relevant to financial services employers, risk 
