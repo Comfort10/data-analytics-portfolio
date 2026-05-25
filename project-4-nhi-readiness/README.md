@@ -25,14 +25,13 @@ The scorecard translates complex, multi-dimensional health system data into a si
 
 ## Tools Used
 
-- Microsoft Excel — normalisation formulas, XLOOKUP, PivotTables, conditional formatting, RAG dashboard
+- Microsoft Excel — normalisation formulas, IFS, AVERAGE, MAX, MIN, PivotTables, conditional formatting, RAG dashboard, PivotCharts
 
 ---
 
 ## Excel Skills Demonstrated
 
 - **Normalisation formulas** — converting raw indicator values to comparable 0–10 scores using MIN/MAX scaling
-- **Cross-sheet XLOOKUP** — pulling values from Raw Data sheet into Scorecard calculations
 - **AVERAGE formulas** — aggregating normalised scores into dimension scores and overall readiness
 - **IF formulas** — RAG status classification (Green/Amber/Red) based on overall score thresholds
 - **Conditional formatting** — colour-coded RAG status across the scorecard
@@ -53,7 +52,9 @@ The scorecard translates complex, multi-dimensional health system data into a si
 
 ## Files
 
-- `SA_NHI_Readiness_Scorecard.xlsx` — full workbook including raw data, normalised scores, scorecard, and dashboard
+- `project_nhi_readiness.xlsx` — full workbook including raw data, normalised scores, scorecard, and dashboard
+- `raw_data.xlsx` — raw data for the SA NHI Readiness project
+- `screenshot_project4_dashboard.png` — showcase the dashboard of the SA NHI Readiness project
 
 ---
 
