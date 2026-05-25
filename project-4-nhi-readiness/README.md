@@ -1,4 +1,4 @@
-# Project 3 — SA NHI Provincial Readiness Scorecard
+# Project 4 — SA NHI Provincial Readiness Scorecard
 
 Excel-based multi-indicator gap analysis assessing South Africa's nine provinces against NHI implementation readiness criteria across infrastructure, disease burden, and service delivery dimensions.
 
