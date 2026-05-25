@@ -11,6 +11,7 @@ South Africa's National Health Insurance (NHI) is the most significant health re
 > *"How ready are South Africa's provinces for NHI implementation — and which provinces face the greatest gaps?"*
 
 The scorecard translates complex, multi-dimensional health system data into a single, actionable readiness score per province
+
 ---
 
 ## Dataset
