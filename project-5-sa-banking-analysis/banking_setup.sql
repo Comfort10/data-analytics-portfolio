@@ -6,6 +6,8 @@ CREATE DATABASE BankingSectorDB
 
 USE BankingSectorDB
 
+-- Update the codes so that they are identical to the codes from the SARB_Banking_Data dataset
+
 UPDATE sarb_description
 SET code = CASE code
 	WHEN 'KBP1008' THEN 'KBP1008M'
