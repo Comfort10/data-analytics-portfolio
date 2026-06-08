@@ -29,7 +29,7 @@ GROUP BY date
 
 /* 
 Query 3 — Stress indicator:
-"Find all months where provisions were above the average provisions value across the entire period."
+Find all months where provisions were above the average provisions value across the entire period.
 */
 SELECT date
 FROM sarb_monthly
