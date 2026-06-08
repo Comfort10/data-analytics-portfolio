@@ -62,7 +62,10 @@ FROM sarb_monthly
 WHERE code = 'KBP1486M'
 
 
-
+/* 
+Query 5 — Summary:
+Calculate average PSCE and average provisions per COVID period classification.
+*/
 
 
 
