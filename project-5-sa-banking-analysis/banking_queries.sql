@@ -1,3 +1,7 @@
+-- Use the BankingSectorDB database
+
+USE BankingSectorDB
+
 /* 
 Query 1 — Monthly trend:
 Show all monthly PSCE values. Add a column showing month-on-month change.
