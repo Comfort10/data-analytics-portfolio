@@ -27,5 +27,17 @@ FROM sarb_monthly
 GROUP BY date
 
 
+/* 
+Query 3 — Stress indicator:
+"Find all months where provisions were above the average provisions value across the entire period."
+*/
+SELECT date
+FROM sarb_monthly
 
+WHERE value > (
+				SELECT AVG(value)
+				FROM sarb_monthly
+					WHERE code = 'KBP1123M'
+	)
+		AND code = 'KBP1123M'
 
