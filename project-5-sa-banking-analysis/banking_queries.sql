@@ -41,3 +41,34 @@ WHERE value > (
 	)
 		AND code = 'KBP1123M'
 
+
+/* 
+Query 4 — Rate trend:
+Show prime overdraft rate by month. Add a column classifying the rate as 'High' (above 10%), 
+'Medium' (7–10%), or 'Low' (below 7%).
+*/
+SELECT date, value,
+	CASE
+		WHEN value > 10 THEN 'High'
+		WHEN value BETWEEN 8 AND 10 THEN 'Medium'
+		WHEN value < 8 THEN 'Low'
+	END AS rate_class
+FROM sarb_monthly
+
+WHERE code = 'KBP1486M'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
