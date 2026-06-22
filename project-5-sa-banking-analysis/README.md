@@ -11,11 +11,8 @@ by COVID-19 and whether it has recovered to pre-pandemic levels.
 Using six key banking indicators from the SARB, the analysis tracks 
 credit extension, deposit growth, lending rates, loan provisions, 
 and total sector assets across three distinct periods; pre-COVID, 
-COVID shock, and recovery.
+during-COVID, and post-COVID.
 
-The analysis is relevant to financial services employers, risk 
-analysts, and economic policy stakeholders monitoring SA's banking 
-sector resilience.
 
 ## Dataset
 
