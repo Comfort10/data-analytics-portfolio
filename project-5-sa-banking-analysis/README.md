@@ -51,7 +51,7 @@ String functions, CASE statements, subqueries, window functions
 
 *To be updated upon query completion*
 
-# Total Private Sector Credit Extension Trendline
+### Total Private Sector Credit Extension Trendline
 An analysis of credit extension in the South African banking sector reveals that overall, the market experienced consistent growth leading up to early 2020. After the initial stability in 2020 and 2021, the market saw a consistent upward growth trend, climbing to ~ 60 million by 2025 from ~ 48 million, clearly showig a recovery and expansion phase following the pandemic's disruptions. 
 
 2. Finding 2 — *
