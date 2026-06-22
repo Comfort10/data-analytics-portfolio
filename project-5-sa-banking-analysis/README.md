@@ -39,7 +39,7 @@ sector resilience.
 - SQL Server (T-SQL) via SSMS — database creation, data loading, 
   and analytical querying
 - Microsoft Excel — data extraction, cleaning, and CSV preparation
-- Power BI — interactive dashboard and trend visualisation
+- Power BI — DAX measures, Power Query, interactive dashboard and trend visualisation
 - GitHub — version control and portfolio hosting
 
 ## SQL Concepts Demonstrated
