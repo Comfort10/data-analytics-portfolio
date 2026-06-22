@@ -45,7 +45,7 @@ sector resilience.
 ## SQL Concepts Demonstrated
 
 String functions, CASE statements, subqueries, window function
-(LAG), CTEs — all applied to real SARB financial data
+(LAG), CTEs
 
 ## Key Findings
 
