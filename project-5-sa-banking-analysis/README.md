@@ -57,7 +57,10 @@ An analysis of credit extension in the South African banking sector reveals that
 During the Pre-COVID phase, from January 2019 to February 2020, credit extension in the South African banking sector showed a pattern of steady, modest growth. It started slowly, hovering around 3.6 million, experienced an increase to about 3.7 million by April 2019, and then climbed steadily to peak at roughly 3.9 million by February 2020, indicating a period of consistent, stable economic activity. 
 
 #### During-COVID
+During the "During-COVID" phase, credit extension experienced significant volatility. After an initial dip in September 2020, the market showed signs of recovery, reaching 4 million in February 2021 and continuing a gradual climb to hit 4.2 million by June 2022. This reflects a period of instability followed by gradual stabilization and growth amidst the pandemic's disruptions. 
 
+#### Post-COVID
+For the post-COVID phase, from July 2022 through December 2025, the data shows a period of consistent, steady growth, climbing from approximately 4.3 million to an impressive 5.2 million by 2025. This indicates a sustained recovery and expansion in credit extension for the banking sector.  
 ### Total Banking Sector Assets Trendline
 
 ### Prime Overdraft Rate Trendline
