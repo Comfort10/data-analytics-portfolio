@@ -1,7 +1,7 @@
 # SA Banking Sector Post-COVID Performance Analysis
 
 SQL and Power BI analysis of South Africa's banking sector health 
-across the COVID-19 period (2019–2024) using South African Reserve 
+across the COVID-19 period (2019–2025) using South African Reserve 
 Bank (SARB) monthly time series data.
 
 ## Overview
@@ -21,7 +21,7 @@ sector resilience.
 
 - Source: South African Reserve Bank (SARB) — Money and Banking 
   statistical tables
-- Period: January 2019 — January 2026 (monthly)
+- Period: January 2019 — December 2025 (monthly)
 - Records: 505 rows across 6 series codes
 - Variables:
 
