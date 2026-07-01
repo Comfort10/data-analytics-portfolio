@@ -72,4 +72,4 @@ For the post-COVID phase, from July 2022 through December 2025, the data shows a
 
 ## Status
 
-🔄 In progress — SQL queries complete, Power BI dashboard pending
+🔄 In progress — SQL queries complete, Power BI dashboard complete, Findings pending
