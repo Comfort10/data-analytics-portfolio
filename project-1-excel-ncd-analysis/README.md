@@ -53,7 +53,3 @@ The analysis is relevant to NHI implementation planning, provincial health budge
 - `raw data.xlsx` - Raw SA NCD data
 
 ---
-
-## Relevance to Employers
-
-This project demonstrates the ability to work with real public health data, apply advanced Excel skills, and translate findings into policy-relevant insight.
