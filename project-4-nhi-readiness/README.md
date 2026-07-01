@@ -57,7 +57,3 @@ The scorecard translates complex, multi-dimensional health system data into a si
 - `screenshot_project4_dashboard.png` — showcase the dashboard of the SA NHI Readiness project
 
 ---
-
-## Relevance to Employers
-
-Demonstrates ability to design a structured analytical framework, apply advanced Excel modelling, and produce policy-relevant findings — applicable to health policy analyst, M&E specialist, health economist, and government advisory roles.
