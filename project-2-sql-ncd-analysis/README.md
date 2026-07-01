@@ -57,7 +57,3 @@ The project is relevant to health analytics, clinical data management, database 
 - `ncd_project_queries.sql` — all 5 analytical query sets with comments
 
 ---
-
-## Relevance to Employers
-
-Demonstrates ability to design and administer a relational database, write complex analytical SQL, and produce findings relevant to health policy and programme monitoring — applicable to health data analyst, statistical programmer, database administrator, and research analyst roles.
