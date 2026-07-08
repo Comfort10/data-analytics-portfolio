@@ -48,7 +48,7 @@ WHERE value > (
 
 /* 
 Query 4 — Rate trend:
-Show prime overdraft rate by month. Add a column classifying the rate as 'High' (above 10%), 
+Show prime lending rate by month. Add a column classifying the rate as 'High' (above 10%), 
 'Medium' (8–10%), or 'Low' (below 7%).
 */
 SELECT date, value,
