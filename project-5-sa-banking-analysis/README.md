@@ -29,7 +29,7 @@ during-COVID, and post-COVID.
 | KBP1132M | Total Banking Sector Assets |
 | KBP1166M | Total Loans and Advances |
 | KBP1123M | Specific Provisions — Loans (NPL proxy) |
-| KBP1486M | Prime Overdraft Rate |
+| KBP1486M | Prime Lending Rate |
 
 ## Tools Used
 
@@ -70,7 +70,7 @@ The data demonstrates that the total banking sector assets experienced considera
 
 #### Post-COVID
 The data for this final phase reveals a period of consistent and meaningful growth. Beginning at approximately 7.1 million in July 2022, the total banking sector assets steadily climbed, reaching a high of roughly 9 million by December 2025. This upward trajectory reflects a robust stabilization of the financial system and a strong resumption of growth following the initial challenges of the pandemic. 
-### Prime Overdraft Rate Trendline
+### Prime Lending Rate Trendline
 
 ## Files
 
