@@ -72,6 +72,17 @@ The data demonstrates that the total banking sector assets experienced considera
 The data for this final phase reveals a period of consistent and meaningful growth. Beginning at approximately 7.1 million in July 2022, the total banking sector assets steadily climbed, reaching a high of roughly 9 million by December 2025. This upward trajectory reflects a robust stabilization of the financial system and a strong resumption of growth following the initial challenges of the pandemic. 
 ### Prime Lending Rate Trendline
 
+The data started in 2019 with the prime lending rate sitting at 10.25%, which then dipped significantly during the pandemic to around 7% by late 2020. Following that, we saw a steady climb back up, peaking at 11.25%, before a gradual decline toward 10.33% in late 2025. Looking ahead, the forecast suggests a further decline to 8.67% by the end of 2027. 
+
+#### Pre-COVID
+The prime rate averaged around 10.25% during the first quarter of 2019. Throughout that year, it remained relatively stable, hovering near that mark and ending the year at 10% in the fourth quarter of 2019. This shows a period where borrowing costs were generally steady following the beginning of the year. 
+
+#### During-COVID
+During the period affected by COVID-19, the prime lending rate experienced a sharp decline, dropping from 9.42% early in the pandemic down to a low of 7% by the third quarter of 2020. It remained at this 7% level for a full year, reflecting significant efforts to ease borrowing costs. By the fourth quarter of 2021, the rate began a steady upward trend, climbing to 7.17% and continuing to rise until it reached 8.08% by the second quarter of 2022. 
+
+#### Post-COVID
+In this post-COVID phase, the prime lending rate initially continued to climb, rising from around 9.25% in the third quarter of 2022 to reach a peak of 11.75% by the third quarter of 2023. After maintaining this higher level for about three quarters, the rate began gradual descent, easing to 11.67% in the third quarter of 2024. This downward trend continued, bringing the rate down to 10.33% by the fourth quarter of 2025, signaling a shift toward more accommodative monetary conditions as economic pressures slowly abated. 
+
 ## Files
 
 - `sarb_banking_data.csv` — cleaned SARB data extract
