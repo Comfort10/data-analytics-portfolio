@@ -59,6 +59,8 @@ project-5-sa-banking-analysis/
 - Structured the target database schema using T-SQL.
 - Staged the cleaned CSV datasets into SQL Server using the SSMS Import and Export Wizard
 
+### 3. Analytical Querying (T-SQL)
+
 ## Tools Used
 
 - SQL Server (T-SQL) via SSMS — database creation, data loading, 
