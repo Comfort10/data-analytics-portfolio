@@ -28,7 +28,7 @@ during-COVID, and post-COVID.
 | KBP1008M | Total Deposits |
 | KBP1132M | Total Banking Sector Assets |
 | KBP1166M | Total Loans and Advances |
-| KBP1123M | Specific Provisions — Loans (NPL proxy) |
+| KBP1123M | Loans Provisions |
 | KBP1486M | Prime Lending Rate |
 
 ## Tools Used
