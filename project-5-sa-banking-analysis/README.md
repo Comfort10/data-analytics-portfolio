@@ -35,7 +35,9 @@ during-COVID, and post-COVID.
 
 ```text
 project-5-sa-banking-analysis/
-├── node_modules/
+├── data/
+|   ├── sarb_raw_data.csv
+|   ├── sarb_description.csv
 ├── public/
 │   ├── favicon.ico
 │   └── index.html
