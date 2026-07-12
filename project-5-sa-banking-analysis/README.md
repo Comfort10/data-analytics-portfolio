@@ -63,6 +63,9 @@ project-5-sa-banking-analysis/
 
 ## Key Code Snippet
 
+COVID period classification:
+Flagged each month as 'Pre-COVID' (before March 2020), 'During-COVID' (March 2020 — December 2021),
+or 'Post-COVID' (2022 onwards).
 ```sql
 SELECT 
     date, 
