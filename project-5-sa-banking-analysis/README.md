@@ -82,9 +82,9 @@ GROUP BY date;
 ## Tools Used
 
 - SQL Server (T-SQL) via SSMS — database creation, data loading, 
-  and analytical querying (scripts located in the /sql directory)
-- Microsoft Excel — Raw data cleaning, extraction via Power Query and CSV preparation (processed files in the /data directory)
-- Power BI — DAX measures, Power Query, interactive dashboard and trend visualisation (file located in the /power-bi directory)
+  and analytical querying (scripts located in the /sql subdirectory)
+- Microsoft Excel — Raw data cleaning, extraction via Power Query and CSV preparation (processed files in the /data subdirectory)
+- Power BI — DAX measures, Power Query, interactive dashboard and trend visualisation (file located in the /power-bi subdirectory)
 - GitHub — version control and portfolio hosting
 
 
