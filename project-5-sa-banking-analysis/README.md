@@ -62,18 +62,18 @@ project-5-sa-banking-analysis/
 ### 3. Analytical Querying (T-SQL)
 
 ## Key Code Snippet
--- Paste your favorite SQL query here! 
-SELECT date,
-	CASE
-		WHEN date < '2020-03-01' THEN 'Pre-COVID'
-		WHEN date BETWEEN '2020-03-01' and '2021-12-31' THEN 'During-COVID'
-		WHEN date >= '2022-01-01' THEN 'Post-COVID'
-	END AS COVID_period
+
+```sql
+SELECT 
+    date, 
+    CASE 
+        WHEN date < '2020-03-01' THEN 'Pre-COVID' 
+        WHEN date BETWEEN '2020-03-01' AND '2021-12-31' THEN 'During-COVID' 
+        WHEN date >= '2022-01-01' THEN 'Post-COVID' 
+    END AS COVID_period 
 FROM sarb_monthly
-
-GROUP BY date
--- For example, the one you used to look at the trendlines or group the phases.
-
+GROUP BY date;
+```
 
 ## Tools Used
 
