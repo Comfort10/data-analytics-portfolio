@@ -50,7 +50,7 @@ project-5-sa-banking-analysis/
 ```
 
 ## Technical Methodology
-1. Data Cleaning and Transformation
+### 1. Data Cleaning and Transformation
 
 
 ## Tools Used
