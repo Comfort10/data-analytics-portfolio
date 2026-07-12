@@ -100,13 +100,6 @@ During the period affected by COVID-19, the prime lending rate experienced a sha
 #### Post-COVID
 In this post-COVID phase, the prime lending rate initially continued to climb, rising from around 9.25% in the third quarter of 2022 to reach a peak of 11.75% by the third quarter of 2023. After maintaining this higher level for about three quarters, the rate began gradual descent, easing to 11.67% in the third quarter of 2024. This downward trend continued, bringing the rate down to 10.33% by the fourth quarter of 2025, signaling a shift toward more accommodative monetary conditions as economic pressures slowly abated. 
 
-## Files
-
-- `sarb_banking_data.csv` — cleaned SARB data extract
-- `sarb_description.csv` — description of SARB codes
-- `banking_setup.sql` — database and table creation
-- `banking_queries.sql` — analytical query sets
-- `banking_dashboard.pbix` — Power BI dashboard
 
 ## Status
 
