@@ -33,18 +33,15 @@ during-COVID, and post-COVID.
 
 ## Repository Structure and Setup
 
+```text
 my-app/
 ├── node_modules/
 ├── public/
 │   ├── favicon.ico
-│   ├── index.html
-│   └── robots.txt
-├── src/
-│   ├── index.css
-│   └── index.js
-├── .gitignore
-├── package.json
+│   └── index.html
 └── README.md
+```
+
 
 
 
