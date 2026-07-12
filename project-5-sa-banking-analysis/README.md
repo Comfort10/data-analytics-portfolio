@@ -33,8 +33,10 @@ during-COVID, and post-COVID.
 
 ## Repository Structure and Setup
 
-|--- Data # Raw SARB Data files
-|-- SQL
+├── data/       # Raw SARB CSV files
+├── sql/        # Database schema and analytical scripts
+├── powerbi/    # .pbix dashboard file
+└── README.md
 
 ## Tools Used
 
