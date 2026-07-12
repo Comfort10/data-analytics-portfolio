@@ -52,9 +52,7 @@ project-5-sa-banking-analysis/
 ## Technical Methodology
 ### 1. Data Cleaning and Transformation
 - Imported raw SARB time-series data tables.
-
 - Unpivoted monthly columns into rows to establish a clean, normalized tabular structure.
-
 - Handled missing values and standardized date configurations (YYYY-MM-DD)
 
 ## Tools Used
