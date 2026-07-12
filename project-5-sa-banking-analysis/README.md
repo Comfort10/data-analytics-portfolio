@@ -39,7 +39,6 @@ during-COVID, and post-COVID.
 - Power BI — DAX measures, Power Query, interactive dashboard and trend visualisation
 - GitHub — version control and portfolio hosting
 
-(LAG), CTEs
 
 ## Key Findings
 
