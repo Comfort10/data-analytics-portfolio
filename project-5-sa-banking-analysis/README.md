@@ -34,7 +34,7 @@ during-COVID, and post-COVID.
 ## Repository Structure and Setup
 
 ```text
-my-app/
+project-5-sa-banking-analysis/
 ├── node_modules/
 ├── public/
 │   ├── favicon.ico
