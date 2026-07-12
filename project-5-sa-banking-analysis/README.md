@@ -33,7 +33,7 @@ during-COVID, and post-COVID.
 
 ## Repository Structure and Setup
 
-|-- Data
+|-- Data # Raw SARB Data files
 |-- SQL
 
 ## Tools Used
