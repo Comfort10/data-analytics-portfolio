@@ -61,6 +61,10 @@ project-5-sa-banking-analysis/
 
 ### 3. Analytical Querying (T-SQL)
 
+## Key Code Snippet
+
+
+
 ## Tools Used
 
 - SQL Server (T-SQL) via SSMS — database creation, data loading, 
