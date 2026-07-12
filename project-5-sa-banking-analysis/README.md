@@ -90,7 +90,8 @@ GROUP BY date;
 
 ## Key Findings
 
-
+### Finding 1: Total Private Sector Credit Extension (PSCE)
+Identified a 20.9% post-pandemic expansion in Private Sector Credit Extension (PSCE), tracking a steady market recovery from 4.3 million in mid-2022 to 5.2 million by December 2025 using SARB time-series data.
 
 
 
