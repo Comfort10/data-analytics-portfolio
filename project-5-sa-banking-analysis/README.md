@@ -49,7 +49,8 @@ project-5-sa-banking-analysis/
 └── README.md
 ```
 
-
+## Technical Methodology & Code Snippets 
+### Data Ingestion and Cleaning
 
 
 ## Tools Used
