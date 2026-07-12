@@ -31,6 +31,11 @@ during-COVID, and post-COVID.
 | KBP1123M | Loans Provisions |
 | KBP1486M | Prime Lending Rate |
 
+## Repository Structure and Setup
+
+|-- Data
+|-- SQL
+
 ## Tools Used
 
 - SQL Server (T-SQL) via SSMS — database creation, data loading, 
