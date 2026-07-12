@@ -38,9 +38,14 @@ project-5-sa-banking-analysis/
 ├── data/
 |   ├── sarb_raw_data.csv
 |   ├── sarb_description.csv
-├── public/
-│   ├── favicon.ico
-│   └── index.html
+├── sql/
+│   ├── setup.sql
+│   └── queries.sql
+├── power-bi/
+|   ├── sarb_dashboard.pbix
+|   ├── screenshot-sarb-dashboard.png
+├── DEVELOPMENT.md
+├── Insights.md
 └── README.md
 ```
 
