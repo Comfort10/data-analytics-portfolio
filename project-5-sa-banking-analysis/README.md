@@ -55,6 +55,10 @@ project-5-sa-banking-analysis/
 - Unpivoted monthly columns into rows to establish a clean, normalized tabular structure.
 - Handled missing values and standardized date configurations (YYYY-MM-DD)
 
+### 2. Data Ingestion (SQL Server)
+- Structured the target database schema using T-SQL.
+- Staged the cleaned CSV datasets into SQL Server using the SSMS Import and Export Wizard
+
 ## Tools Used
 
 - SQL Server (T-SQL) via SSMS — database creation, data loading, 
