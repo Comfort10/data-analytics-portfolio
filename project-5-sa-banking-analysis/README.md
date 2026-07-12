@@ -60,7 +60,8 @@ project-5-sa-banking-analysis/
 - Staged the cleaned CSV datasets into SQL Server using the SSMS Import and Export Wizard
 
 ### 3. Analytical Querying (T-SQL)
-
+- Analysed monthly trend using LAG() window function
+- Classified the COVID phases using CASE statement
 ## Key Code Snippet
 
 COVID period classification:
