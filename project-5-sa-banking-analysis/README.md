@@ -31,7 +31,7 @@ during-COVID, and post-COVID.
 | KBP1123M | Loans Provisions |
 | KBP1486M | Prime Lending Rate |
 
-## Repository Structure and Setup
+## Directory Structure and Setup
 
 ```text
 project-5-sa-banking-analysis/
