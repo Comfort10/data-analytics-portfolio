@@ -93,7 +93,11 @@ GROUP BY date;
 ### Finding 1: Total Private Sector Credit Extension (PSCE)
 Identified a 20.9% post-pandemic expansion in Private Sector Credit Extension (PSCE), tracking a steady market recovery from 4.3 million in mid-2022 to 5.2 million by December 2025 using SARB time-series data.
 
+### Finding 2: Total Banking Sector Assets
+Quantified a 26.8% surge in total banking sector assets during the post-COVID recovery phase, climbing from 7.1 million in July 2022 to a robust 9.0 million by December 2025, signaling a strong stabilization of the financial system
 
+### Finding 3: Prime Lending Rate Trend
+Analyzed monetary policy shifts showing a steep 325 basis point reduction in the Prime Lending Rate to a 7.00% defensive low during COVID-19, followed by a post-pandemic contractionary cycle peaking at 11.75% before stabilizing at 10.33% in late 2025
 
 ## Status
 
