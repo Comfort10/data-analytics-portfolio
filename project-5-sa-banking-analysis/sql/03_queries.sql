@@ -54,7 +54,7 @@ WHERE code = 'KBP1123M'
 /* 
 Query 4 — Rate trend:
 Show prime lending rate by month. Add a column classifying the rate as 'High' (above 10%), 
-'Medium' (8–10%), or 'Low' (below 7%).
+'Medium' (8–10%), or 'Low' (below 8%).
 */
 SELECT 
 	date, 
@@ -65,7 +65,6 @@ SELECT
 		WHEN value < 8 THEN 'Low'
 	END AS rate_class
 FROM sarb_monthly
-
 WHERE code = 'KBP1486M'
 
 
