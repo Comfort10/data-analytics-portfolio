@@ -9,7 +9,7 @@ USE BankingSectorDB
 -- 1. Create the Description Lookup Table
 CREATE TABLE sarb_description (
     code VARCHAR(50) PRIMARY KEY,
-    description VARCHAR(255) NOT NULL
+    description VARCHAR(100) NOT NULL
 );
 
 -- 2. Create the Monthly Time-Series Data Table
