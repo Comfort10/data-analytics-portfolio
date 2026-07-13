@@ -39,15 +39,16 @@ GROUP BY date
 Query 3 — Stress indicator:
 Find all months where provisions were above the average provisions value across the entire period.
 */
-SELECT date
+SELECT 
+	date
 FROM sarb_monthly
-
-WHERE value > (
-				SELECT AVG(value)
-				FROM sarb_monthly
-					WHERE code = 'KBP1123M'
+WHERE code = 'KBP1123M'
+	AND value > (
+		SELECT AVG(value)
+		FROM sarb_monthly
+		WHERE code = 'KBP1123M'
 	)
-		AND code = 'KBP1123M'
+		
 
 
 /* 
@@ -55,7 +56,9 @@ Query 4 — Rate trend:
 Show prime lending rate by month. Add a column classifying the rate as 'High' (above 10%), 
 'Medium' (8–10%), or 'Low' (below 7%).
 */
-SELECT date, value,
+SELECT 
+	date, 
+	value,
 	CASE
 		WHEN value > 10 THEN 'High'
 		WHEN value BETWEEN 8 AND 10 THEN 'Medium'
