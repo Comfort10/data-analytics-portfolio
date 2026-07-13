@@ -29,7 +29,7 @@ SELECT
 	CASE
 		WHEN date < '2020-03-01' THEN 'Pre-COVID'
 		WHEN date BETWEEN '2020-03-01' and '2021-12-31' THEN 'During-COVID'
-		WHEN date >= '2022-01-01' THEN 'Post-COVID'
+		ELSE 'Post-COVID'
 	END AS COVID_period
 FROM sarb_monthly
 GROUP BY date
