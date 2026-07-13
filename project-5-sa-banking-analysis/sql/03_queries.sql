@@ -11,10 +11,11 @@ SELECT
 	date, 
 	code, 
 	value,
-	value - LAG(value) OVER(PARTITION BY code
-						          ORDER BY date) AS month_on_month					
+	value - LAG(value) OVER(
+		PARTITION BY code
+		ORDER BY date
+	) AS month_on_month					
 FROM sarb_monthly
-
 WHERE code = 'KBP1347M'
 
 
