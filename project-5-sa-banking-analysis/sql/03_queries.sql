@@ -74,32 +74,34 @@ Calculate average PSCE and average provisions per COVID period classification.
 */
 
 
-WITH cte_period AS
+WITH period AS
 (
-SELECT date, code, value,
+SELECT 
+	date, 
+	code, 
+	value,
 	CASE
 		WHEN date < '2020-03-01' THEN 'Pre-COVID'
 		WHEN date BETWEEN '2020-03-01' and '2021-12-31' THEN 'During-COVID'
-		WHEN date >= '2022-01-01' THEN 'Post-COVID'
+		ELSE 'Post-COVID'
 	END AS COVID_period
 FROM sarb_monthly
 )
-
-SELECT COVID_period, ROUND(AVG(
-							CASE
-								WHEN code = 'KBP1347M' THEN value
-								ELSE NULL
-							END
-							),2) AS AVG_PSCE,
-					ROUND(AVG(
-						CASE
-							WHEN code = 'KBP1123M' THEN value
-							ELSE NULL
-						END
-						),2) AS AVG_Provisions
-FROM cte_period
-
-
+SELECT 
+	COVID_period, 
+	ROUND(AVG(
+			   CASE
+		       		WHEN code = 'KBP1347M' THEN value
+					ELSE NULL
+				END
+				),2) AS AVG_PSCE,
+	ROUND(AVG(
+			   CASE
+			       WHEN code = 'KBP1123M' THEN value
+				   ELSE NULL
+				END
+			    ),2) AS AVG_Provisions
+FROM period
 GROUP BY COVID_period
 
 
