@@ -63,6 +63,4 @@ The projects span health, financial services, and policy domains — reflecting 
 
 ## Contact
 
-Open to junior data analyst, research analyst, M&E, and health data roles across South Africa and remote international positions.
-
 📧 comfort10nkosi@gmail.com | 📞 (+27) 71 553 1293
