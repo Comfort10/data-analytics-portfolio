@@ -68,12 +68,12 @@ Flagged each month as 'Pre-COVID' (before March 2020), 'During-COVID' (March 202
 or 'Post-COVID' (January 2022 onwards).
 ```sql
 SELECT 
-    date, 
-    CASE 
-        WHEN date < '2020-03-01' THEN 'Pre-COVID' 
-        WHEN date BETWEEN '2020-03-01' AND '2021-12-31' THEN 'During-COVID' 
-        WHEN date >= '2022-01-01' THEN 'Post-COVID' 
-    END AS COVID_period 
+	date,
+	CASE
+		WHEN date < '2020-03-01' THEN 'Pre-COVID'
+		WHEN date BETWEEN '2020-03-01' and '2021-12-31' THEN 'During-COVID'
+		ELSE 'Post-COVID'
+	END AS COVID_period
 FROM sarb_monthly
 GROUP BY date;
 ```
