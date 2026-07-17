@@ -16,8 +16,8 @@ during-COVID, and post-COVID.
 
 ## Dataset and Variables
 
-- Source: South African Reserve Bank (SARB) — Money and Banking 
-  statistical tables (https://www.resbank.co.za/content/dam/sarb/publications/quarterly-bulletins/download-information-from-xlsx-data-files/2026/march/01Kbp1%20Money%20and%20Banking%20March%202026.zip)
+- Source: [South African Reserve Bank (SARB) — Money and Banking 
+  statistical tables] (https://www.resbank.co.za/content/dam/sarb/publications/quarterly-bulletins/download-information-from-xlsx-data-files/2026/march/01Kbp1%20Money%20and%20Banking%20March%202026.zip)
 - Period: January 2019 — December 2025 (monthly)
 - Records: 505 rows across 6 series codes
 - Variables:
