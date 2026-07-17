@@ -56,7 +56,7 @@ The projects span health, financial services, and policy domains — reflecting 
 - Creating Compelling Reports — Cisco Networking Academy, Dec 2025
 
 **In Progress:**
-- CS50 Python — Harvard University (edX)
+- Data Science Essentials with Python — Cisco Networking Academy
 - Power BI Fundamentals — CFI (Coursera)
 
 ---
