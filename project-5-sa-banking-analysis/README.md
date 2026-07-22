@@ -43,8 +43,9 @@ project-5-sa-banking-analysis/
 ├── power-bi/
 |   ├── sarb_dashboard.pbix
 |   ├── screenshot-sarb-dashboard.png
-├── DEVELOPMENT.md
-├── Insights.md
+├── development.md
+├── insights.md
+├── changelog.md
 └── README.md
 ```
 
