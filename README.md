@@ -1,6 +1,6 @@
 # Phumza Nkosi — Data Analytics Portfolio
 
-BSc Honours in Biostatistics (NQF Level 8) | BSc Health Sciences in Health Systems Science (NQF Level 7)
+BSc Honours in Biostatistics (NQF Level 8) | B. Health Sciences in Health Systems Science (NQF Level 7)
 
 Gauteng | comfort10nkosi@gmail.com | (+27) 71 553 1293
 
