@@ -8,8 +8,6 @@ Gauteng | comfort10nkosi@gmail.com | (+27) 71 553 1293
 
 ## About This Portfolio
 
-This portfolio documents a self-directed upskilling journey from health sciences graduate to data analyst — built while actively seeking employment. Every project uses real South African data, targets a specific employer sector, and demonstrates end-to-end analytical capability from raw data to insight.
-
 The projects span health, financial services, and policy domains — reflecting both my academic background and my intention to work across sectors as a cross-disciplinary data analyst.
 
 ---
