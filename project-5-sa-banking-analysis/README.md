@@ -53,7 +53,7 @@ project-5-sa-banking-analysis/
 ### 1. Data Cleaning and Transformation
 - Imported raw SARB time-series data tables.
 - Unpivoted monthly columns into rows to establish a clean, normalized tabular structure.
-- Handled missing values and standardized date configurations (YYYY-MM-DD)
+- Handled missing values and standardized date configurations (DD-MM-YYYY)
 
 ### 2. Data Ingestion (SQL Server)
 - Structured the target database schema using T-SQL.
